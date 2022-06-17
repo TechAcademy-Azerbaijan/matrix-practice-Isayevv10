@@ -15,5 +15,5 @@
             }
         }    
     }
-    console.log(sum);
     console.log(count);
+    console.log(sum);
